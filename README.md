@@ -1,6 +1,6 @@
  # Transit App
  
- ### Live https://lavanya-sethuraman.github.io/Transit-Info-App
+ ### Live https://melavanya.github.io/Public-Transit/
 
 ![dock](img/transit-app.png)
 
